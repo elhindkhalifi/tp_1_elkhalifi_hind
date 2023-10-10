@@ -7,7 +7,7 @@
     <h1><center>Le Premier TP du cours de PHP</center></H1>
     <h2>Validation de Mot de Passe</h2>
     
-    <form method="post" action="password.php">
+    <form method="post" action="password.php" >
         <label for="password">Mot de Passe :</label>
         <input type="password" id="password" name="password" required>
         <br>
